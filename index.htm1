@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Code Promo PAPYRUS225</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background-color: #f4f4f4;
+      text-align: center;
+      padding: 20px;
+    }
+    header {
+      background-color: #007bff;
+      color: white;
+      padding: 20px;
+      border-radius: 10px;
+    }
+    .promo {
+      font-size: 24px;
+      margin-top: 20px;
+      color: #007bff;
+    }
+    .btn {
+      display: inline-block;
+      padding: 12px 24px;
+      background-color: #28a745;
+      color: white;
+      border-radius: 5px;
+      margin-top: 20px;
+      text-decoration: none;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Bienvenue sur Code Promo PAPYRUS225</h1>
+    <p>Utilisez le code promo 1xbet pour recevoir un bonus incroyable !</p>
+  </header>
+
+  <div class="promo">
+    Code Promo : <strong>PAPYRUS225</strong>
+  </div>
+
+  <a class="btn" href="https://1xbet.com" target="_blank">S’inscrire sur 1xbet</a>
+</body>
+</html>
